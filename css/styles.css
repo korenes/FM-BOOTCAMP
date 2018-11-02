@@ -1,0 +1,18 @@
+.topfont {
+    color:blue;
+    font-weight: bold;
+}
+
+.markets {
+    background-color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#makeitbold {
+    color: green;
+}
+
+p.one {
+    font-style: italic;
+    background-color: blueviolet;
+}
